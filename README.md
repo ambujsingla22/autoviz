@@ -1,4 +1,4 @@
-🚀 AutoViz - The One-Click Data Visualization App!
+## 🚀 AutoViz - The One-Click Data Visualization App!
 
 📊 Instant Data Insights at Your Fingertips!
 
